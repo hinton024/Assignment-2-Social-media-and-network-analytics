@@ -1,2 +1,2 @@
-# Comparative Sentiment Analysis of NVIDIA and Apple Stock using Social Networks
+# Assignment 2 - Social Media and Network Analytics
  
