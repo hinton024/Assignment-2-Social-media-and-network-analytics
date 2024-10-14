@@ -1,0 +1,9 @@
+vaderSentiment
+pyLDAvis
+pandas
+nltk
+langdetect
+contractions
+matplotlib
+wordcloud
+scikit-learn
