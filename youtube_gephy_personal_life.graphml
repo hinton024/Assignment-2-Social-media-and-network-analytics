@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="r" attr.type="int" for="node" id="r"/>
+    <key attr.name="g" attr.type="int" for="node" id="g"/>
+    <key attr.name="b" attr.type="int" for="node" id="b"/>
+    <key attr.name="x" attr.type="float" for="node" id="x"/>
+    <key attr.name="y" attr.type="float" for="node" id="y"/>
+    <key attr.name="size" attr.type="float" for="node" id="size"/>
+    <key attr.name="Eccentricity" attr.type="double" for="node" id="eccentricity"/>
+    <key attr.name="Closeness Centrality" attr.type="double" for="node" id="closnesscentrality"/>
+    <key attr.name="Harmonic Closeness Centrality" attr.type="double" for="node" id="harmonicclosnesscentrality"/>
+    <key attr.name="Betweenness Centrality" attr.type="double" for="node" id="betweenesscentrality"/>
+    <key attr.name="Modularity Class" attr.type="int" for="node" id="modularity_class"/>
+    <graph edgedefault="undirected">
+        <node id="22">
+            <data key="label">22</data>
+            <data key="eccentricity">1.0</data>
+            <data key="closnesscentrality">1.0</data>
+            <data key="harmonicclosnesscentrality">1.0</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">0</data>
+            <data key="size">10.0</data>
+            <data key="r">76</data>
+            <data key="g">70</data>
+            <data key="b">62</data>
+            <data key="x">4.9316044</data>
+            <data key="y">-63.532955</data>
+        </node>
+        <node id="26">
+            <data key="label">26</data>
+            <data key="eccentricity">1.0</data>
+            <data key="closnesscentrality">1.0</data>
+            <data key="harmonicclosnesscentrality">1.0</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">0</data>
+            <data key="size">10.0</data>
+            <data key="r">76</data>
+            <data key="g">70</data>
+            <data key="b">62</data>
+            <data key="x">0.37948704</data>
+            <data key="y">-95.44478</data>
+        </node>
+        <node id="29">
+            <data key="label">29</data>
+            <data key="eccentricity">1.0</data>
+            <data key="closnesscentrality">1.0</data>
+            <data key="harmonicclosnesscentrality">1.0</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">1</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-42.327614</data>
+            <data key="y">-70.42085</data>
+        </node>
+        <node id="30">
+            <data key="label">30</data>
+            <data key="eccentricity">1.0</data>
+            <data key="closnesscentrality">1.0</data>
+            <data key="harmonicclosnesscentrality">1.0</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">1</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-35.487915</data>
+            <data key="y">-42.45455</data>
+        </node>
+        <node id="31">
+            <data key="label">31</data>
+            <data key="eccentricity">1.0</data>
+            <data key="closnesscentrality">1.0</data>
+            <data key="harmonicclosnesscentrality">1.0</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">1</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-63.21295</data>
+            <data key="y">-50.445583</data>
+        </node>
+        <node id="38">
+            <data key="label">38</data>
+            <data key="eccentricity">1.0</data>
+            <data key="closnesscentrality">1.0</data>
+            <data key="harmonicclosnesscentrality">1.0</data>
+            <data key="betweenesscentrality">0.0018115942028985507</data>
+            <data key="modularity_class">2</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-65.97018</data>
+            <data key="y">43.07225</data>
+        </node>
+        <node id="41">
+            <data key="label">41</data>
+            <data key="eccentricity">1.0</data>
+            <data key="closnesscentrality">1.0</data>
+            <data key="harmonicclosnesscentrality">1.0</data>
+            <data key="betweenesscentrality">0.0018115942028985507</data>
+            <data key="modularity_class">2</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-35.72598</data>
+            <data key="y">34.410915</data>
+        </node>
+        <node id="44">
+            <data key="label">44</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.75</data>
+            <data key="harmonicclosnesscentrality">0.8333333333333334</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">2</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-43.136486</data>
+            <data key="y">65.00285</data>
+        </node>
+        <node id="47">
+            <data key="label">47</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.75</data>
+            <data key="harmonicclosnesscentrality">0.8333333333333334</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">2</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">85.53788</data>
+            <data key="y">22.888151</data>
+        </node>
+        <node id="42">
+            <data key="label">42</data>
+            <data key="eccentricity">1.0</data>
+            <data key="closnesscentrality">1.0</data>
+            <data key="harmonicclosnesscentrality">1.0</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">3</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">94.265625</data>
+            <data key="y">-26.181713</data>
+        </node>
+        <node id="50">
+            <data key="label">50</data>
+            <data key="eccentricity">1.0</data>
+            <data key="closnesscentrality">1.0</data>
+            <data key="harmonicclosnesscentrality">1.0</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">3</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">67.87868</data>
+            <data key="y">-19.023853</data>
+        </node>
+        <node id="60">
+            <data key="label">60</data>
+            <data key="eccentricity">1.0</data>
+            <data key="closnesscentrality">1.0</data>
+            <data key="harmonicclosnesscentrality">1.0</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">85</data>
+            <data key="b">132</data>
+            <data key="x">65.559166</data>
+            <data key="y">-64.96765</data>
+        </node>
+        <node id="61">
+            <data key="label">61</data>
+            <data key="eccentricity">1.0</data>
+            <data key="closnesscentrality">1.0</data>
+            <data key="harmonicclosnesscentrality">1.0</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">4</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">85</data>
+            <data key="b">132</data>
+            <data key="x">44.452824</data>
+            <data key="y">-80.17197</data>
+        </node>
+        <node id="63">
+            <data key="label">63</data>
+            <data key="eccentricity">1.0</data>
+            <data key="closnesscentrality">1.0</data>
+            <data key="harmonicclosnesscentrality">1.0</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">5</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">189</data>
+            <data key="b">148</data>
+            <data key="x">65.436</data>
+            <data key="y">67.95209</data>
+        </node>
+        <node id="64">
+            <data key="label">64</data>
+            <data key="eccentricity">1.0</data>
+            <data key="closnesscentrality">1.0</data>
+            <data key="harmonicclosnesscentrality">1.0</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">5</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">189</data>
+            <data key="b">148</data>
+            <data key="x">49.23832</data>
+            <data key="y">47.777412</data>
+        </node>
+        <node id="74">
+            <data key="label">74</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.6</data>
+            <data key="harmonicclosnesscentrality">0.6666666666666666</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">6</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">42.259674</data>
+            <data key="y">8.459613</data>
+        </node>
+        <node id="111">
+            <data key="label">111</data>
+            <data key="eccentricity">1.0</data>
+            <data key="closnesscentrality">1.0</data>
+            <data key="harmonicclosnesscentrality">1.0</data>
+            <data key="betweenesscentrality">0.010869565217391304</data>
+            <data key="modularity_class">6</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">12.518986</data>
+            <data key="y">-14.215694</data>
+        </node>
+        <node id="81">
+            <data key="label">81</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.6</data>
+            <data key="harmonicclosnesscentrality">0.6666666666666666</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">6</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">-19.844292</data>
+            <data key="y">-5.1958766</data>
+        </node>
+        <node id="87">
+            <data key="label">87</data>
+            <data key="eccentricity">1.0</data>
+            <data key="closnesscentrality">1.0</data>
+            <data key="harmonicclosnesscentrality">1.0</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">7</data>
+            <data key="size">10.0</data>
+            <data key="r">211</data>
+            <data key="g">179</data>
+            <data key="b">176</data>
+            <data key="x">-5.213606</data>
+            <data key="y">93.21968</data>
+        </node>
+        <node id="105">
+            <data key="label">105</data>
+            <data key="eccentricity">1.0</data>
+            <data key="closnesscentrality">1.0</data>
+            <data key="harmonicclosnesscentrality">1.0</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">7</data>
+            <data key="size">10.0</data>
+            <data key="r">211</data>
+            <data key="g">179</data>
+            <data key="b">176</data>
+            <data key="x">25.02348</data>
+            <data key="y">90.63447</data>
+        </node>
+        <node id="92">
+            <data key="label">92</data>
+            <data key="eccentricity">1.0</data>
+            <data key="closnesscentrality">1.0</data>
+            <data key="harmonicclosnesscentrality">1.0</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">8</data>
+            <data key="size">10.0</data>
+            <data key="r">192</data>
+            <data key="g">192</data>
+            <data key="b">192</data>
+            <data key="x">-68.18572</data>
+            <data key="y">-5.660206</data>
+        </node>
+        <node id="98">
+            <data key="label">98</data>
+            <data key="eccentricity">1.0</data>
+            <data key="closnesscentrality">1.0</data>
+            <data key="harmonicclosnesscentrality">1.0</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">8</data>
+            <data key="size">10.0</data>
+            <data key="r">192</data>
+            <data key="g">192</data>
+            <data key="b">192</data>
+            <data key="x">-94.117455</data>
+            <data key="y">-6.1422834</data>
+        </node>
+        <node id="101">
+            <data key="label">101</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.6</data>
+            <data key="harmonicclosnesscentrality">0.6666666666666666</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">6</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">34.74623</data>
+            <data key="y">-38.95831</data>
+        </node>
+        <node id="102">
+            <data key="label">102</data>
+            <data key="eccentricity">1.0</data>
+            <data key="closnesscentrality">1.0</data>
+            <data key="harmonicclosnesscentrality">1.0</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">9</data>
+            <data key="size">10.0</data>
+            <data key="r">192</data>
+            <data key="g">192</data>
+            <data key="b">192</data>
+            <data key="x">10.2557335</data>
+            <data key="y">29.060347</data>
+        </node>
+        <node id="103">
+            <data key="label">103</data>
+            <data key="eccentricity">1.0</data>
+            <data key="closnesscentrality">1.0</data>
+            <data key="harmonicclosnesscentrality">1.0</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="modularity_class">9</data>
+            <data key="size">10.0</data>
+            <data key="r">192</data>
+            <data key="g">192</data>
+            <data key="b">192</data>
+            <data key="x">9.349338</data>
+            <data key="y">54.781456</data>
+        </node>
+        <edge id="0" source="22" target="26">
+            <data key="weight">0.5726175308227539</data>
+        </edge>
+        <edge id="1" source="29" target="30">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2" source="29" target="31">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="3" source="30" target="31">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="4" source="38" target="41">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="5" source="38" target="44">
+            <data key="weight">0.8720391988754272</data>
+        </edge>
+        <edge id="6" source="38" target="47">
+            <data key="weight">0.5015330910682678</data>
+        </edge>
+        <edge id="7" source="41" target="44">
+            <data key="weight">0.8720391988754272</data>
+        </edge>
+        <edge id="8" source="41" target="47">
+            <data key="weight">0.5015330910682678</data>
+        </edge>
+        <edge id="9" source="42" target="50">
+            <data key="weight">0.7837942242622375</data>
+        </edge>
+        <edge id="10" source="60" target="61">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="11" source="63" target="64">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="12" source="74" target="111">
+            <data key="weight">0.5601488351821899</data>
+        </edge>
+        <edge id="13" source="111" target="81">
+            <data key="weight">0.6169831156730652</data>
+        </edge>
+        <edge id="14" source="111" target="101">
+            <data key="weight">0.6169831156730652</data>
+        </edge>
+        <edge id="15" source="87" target="105">
+            <data key="weight">0.6474463939666748</data>
+        </edge>
+        <edge id="16" source="92" target="98">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="17" source="102" target="103">
+            <data key="weight">1.0</data>
+        </edge>
+    </graph>
+</graphml>
