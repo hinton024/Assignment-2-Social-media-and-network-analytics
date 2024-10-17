@@ -1,62 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2024-10-14">
+  <meta lastmodifieddate="2024-10-17">
     <creator>NetworkX 3.4</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
     <nodes>
-      <node id="4" label="4" />
-      <node id="87" label="87" />
-      <node id="9" label="9" />
-      <node id="10" label="10" />
-      <node id="20" label="20" />
-      <node id="27" label="27" />
+      <node id="0" label="0" />
+      <node id="29" label="29" />
+      <node id="1" label="1" />
+      <node id="28" label="28" />
+      <node id="5" label="5" />
+      <node id="11" label="11" />
+      <node id="19" label="19" />
       <node id="21" label="21" />
-      <node id="22" label="22" />
-      <node id="25" label="25" />
-      <node id="68" label="68" />
-      <node id="31" label="31" />
-      <node id="35" label="35" />
-      <node id="32" label="32" />
-      <node id="36" label="36" />
-      <node id="41" label="41" />
-      <node id="46" label="46" />
-      <node id="83" label="83" />
-      <node id="55" label="55" />
-      <node id="67" label="67" />
-      <node id="70" label="70" />
-      <node id="64" label="64" />
-      <node id="65" label="65" />
-      <node id="75" label="75" />
-      <node id="76" label="76" />
-      <node id="77" label="77" />
-      <node id="78" label="78" />
-      <node id="80" label="80" />
-      <node id="81" label="81" />
-      <node id="84" label="84" />
-      <node id="85" label="85" />
     </nodes>
     <edges>
-      <edge source="4" target="87" id="0" weight="1.0" />
-      <edge source="9" target="10" id="1" weight="1.0000000000000004" />
-      <edge source="20" target="27" id="2" weight="1.0" />
-      <edge source="21" target="22" id="3" weight="0.6399997872621737" />
-      <edge source="25" target="68" id="4" weight="0.738134775777226" />
-      <edge source="31" target="35" id="5" weight="0.6123798153120166" />
-      <edge source="35" target="32" id="6" weight="0.6638338870859246" />
-      <edge source="36" target="41" id="7" weight="1.0" />
-      <edge source="46" target="83" id="8" weight="1.0" />
-      <edge source="55" target="67" id="9" weight="1.0" />
-      <edge source="55" target="70" id="10" weight="1.0" />
-      <edge source="67" target="70" id="11" weight="1.0" />
-      <edge source="64" target="65" id="12" weight="1.0" />
-      <edge source="75" target="76" id="13" weight="0.798339351691226" />
-      <edge source="75" target="77" id="14" weight="1.0000000000000002" />
-      <edge source="75" target="78" id="15" weight="0.6111835923648405" />
-      <edge source="76" target="77" id="16" weight="0.798339351691226" />
-      <edge source="77" target="78" id="17" weight="0.6111835923648405" />
-      <edge source="80" target="81" id="18" weight="1.0" />
-      <edge source="84" target="85" id="19" weight="1.0" />
+      <edge source="0" target="29" id="0" weight="0.6654981576413134" />
+      <edge source="1" target="28" id="1" weight="0.7071067811865476" />
+      <edge source="5" target="11" id="2" weight="0.7552179969634573" />
+      <edge source="19" target="21" id="3" weight="0.6109482607179033" />
     </edges>
   </graph>
 </gexf>
